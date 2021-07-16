@@ -41,9 +41,10 @@
 	‏     
 	‏       </tr>
 		</table>
+		</form>
 	</br></br></br>
 	<button><a href= "combined.php " style="font-size: 23px; background: #F0F8FF ; color:black; "> <- Back  </a> </button>
-</form>
+
 </body>
 </html>
 
