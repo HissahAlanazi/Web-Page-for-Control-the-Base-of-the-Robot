@@ -21,7 +21,7 @@
 
 	‏    <tr>
 				<td> </td>
-	‏   	 <td>  <input type="submit" value=" Forward " name = "forward" style="font-size: 40px; background: #F0F8FF; border-radius: 60px; color:black;">      </td>
+	‏   <td>  <input type="submit" value=" Forward " name = "forward" style="font-size: 40px; background: #F0F8FF; border-radius: 60px; color:black;">      </td>
 	‏   </tr> 
 			<td></td>
 	</br>
@@ -30,7 +30,7 @@
 
 	‏    <td> <input type="submit" value=" Left " name = "left" style="font-size: 40px; background: #F0F8FF; border-radius: 50px; color: black; ">     </td>
 	‏    <td> <div class="Stop"><input type="submit" value=" Stop " name = "stop" style="font-size: 40px; background: #990033; border-radius: 60px; color: white; padding: 20px; "> </td></div>
-		<td> <input type="submit"value=" Right " name = "right" style="font-size: 40px; background: #F0F8FF; border-radius: 50px; color: black;">    </td>
+	     <td> <input type="submit"value=" Right " name = "right" style="font-size: 40px; background: #F0F8FF; border-radius: 50px; color: black;">    </td>
 	‏       </tr> 
 
 			
@@ -41,6 +41,8 @@
 	‏     
 	‏       </tr>
 		</table>
+	</br></br></br>
+	<button><a href= "combined.php " style="font-size: 23px; background: #F0F8FF ; color:black; "> <- Back  </a> </button>
 </form>
 </body>
 </html>
