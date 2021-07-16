@@ -21,7 +21,8 @@ This repository is about creating two web pages for controlling the movment of t
 6-styles2.css
 
 <img width="938" alt="ArmControl" src="https://user-images.githubusercontent.com/85851678/126003010-137280be-722a-49d0-a6eb-334dedcd7000.png">
-![image](https://user-images.githubusercontent.com/85851678/126003675-a9404655-3b70-4dad-9f99-9650574e13a0.png)
+<img width="932" alt="ArmControl" src="https://user-images.githubusercontent.com/85851678/126004492-012c5cf0-9463-43bd-af1e-35e0fd89e030.png">
+
 <img width="898" alt="control panel" src="https://user-images.githubusercontent.com/85851678/126002646-43965340-cf2c-44ce-8f79-c798b168cb52.png">
 
 
