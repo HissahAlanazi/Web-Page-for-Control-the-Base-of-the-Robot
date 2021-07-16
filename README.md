@@ -9,13 +9,20 @@ This repository is about creating two web pages for controlling the movment of t
  4.controlpanel (1).sql                                                                                                                                                
  5.Robot.image.jpg                                                                                                                                                
 
+![image](https://user-images.githubusercontent.com/85851678/126003833-816da56b-4343-4d53-bd22-73f0c939a44b.png)
+
+
 ### _**Combined Controlling :**_
 1-combined.php                                                                                                                              
 2-combined2task.php                                                                                                                              
 3-combined.js                                                                                                                              
 4-combined.css                                                                                                                              
 5-Robot4.jpg                                                                                                                              
-6-styles2.css                                                                                                                              
+6-styles2.css  
+<img width="938" alt="ArmControl" src="https://user-images.githubusercontent.com/85851678/126003010-137280be-722a-49d0-a6eb-334dedcd7000.png">
+![image](https://user-images.githubusercontent.com/85851678/126003675-a9404655-3b70-4dad-9f99-9650574e13a0.png)
+<img width="898" alt="control panel" src="https://user-images.githubusercontent.com/85851678/126002646-43965340-cf2c-44ce-8f79-c798b168cb52.png">
+
 
 ###  _**Mobile Web view:**_
-Mobile Web view.jpg
+- Mobile Web view.jpg
