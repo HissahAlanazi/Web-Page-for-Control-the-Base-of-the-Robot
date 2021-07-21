@@ -60,7 +60,7 @@
 		</br>
 																			<!.......Button style......>
 		<input type="submit" value = "Save and Run" name="Save_and_Run" style="font-size: 23px; background: rgb(159 ,189 ,214); border-radius: 60px; color:white;"> </br></br>		
-		<button><a href= "combined2task.php " style="font-size: 23px; background: #F0F8FF ; color:black;"> Go the Base Controlling -> </a> </button>
+		<button><a href= "combined2task.php " style="font-size: 23px; background: #F0F8FF ; color:black;"> Go to the Base Controlling -> </a> </button>
 		</div>
 		
 		
